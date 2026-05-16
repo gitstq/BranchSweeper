@@ -1,0 +1,8 @@
+# BranchSweeper - 轻量级Git分支智能清理工具
+# 无外部依赖，纯Python实现
+# Python 3.8+ required
+
+# 开发依赖 (可选)
+# pytest>=7.0.0
+# black>=23.0.0
+# mypy>=1.0.0
