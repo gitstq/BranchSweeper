@@ -1,0 +1,8 @@
+{
+    "protected_branches": ["main", "master", "develop", "staging", "production", "release"],
+    "stale_days": 90,
+    "auto_confirm": false,
+    "dry_run": true,
+    "delete_remote": false,
+    "report_format": "text"
+}
